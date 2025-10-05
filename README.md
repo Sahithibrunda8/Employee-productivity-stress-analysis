@@ -22,7 +22,7 @@ The goal is to help organizations enhance performance and well-being by understa
 
 ##  What Makes This Project Unique
 Unlike generic stress–productivity analysis projects, this work integrates predictive modeling and real-time insight visualization to transform HR data into actionable intelligence.  
-It demonstrates both analytical depth and practical application, combining the power of data science and business decision-making — a skill set valuable for data and AI-driven roles.
+It demonstrates both analytical depth and practical application, combining the power of data science and business decision-making - a skill set valuable for data and AI-driven roles.
 
 ---
 
@@ -36,9 +36,9 @@ It demonstrates both analytical depth and practical application, combining the p
 
 ##  Results
 - Found a negative correlation between stress index and productivity score.  
-- Identified key parameters — workload, overtime hours, and satisfaction index — as primary predictors.  
+- Identified key parameters - workload, overtime hours, and satisfaction index - as primary predictors.  
 - Achieved an R² score of 0.85, proving high model reliability.  
-- Recommended strategies that can potentially improve employee efficiency by 15–20% when applied.
+- Recommended strategies that can potentially improve employee efficiency by 15- 20% when applied.
 
 ---
 
